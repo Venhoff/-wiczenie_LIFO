@@ -1,1 +1,0 @@
-# Ćwiczenie_LIFO
