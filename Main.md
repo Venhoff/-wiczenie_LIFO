@@ -1,4 +1,4 @@
-# Cwiczenie_LIFO
+//Cwiczenie_LIFO
 
 using System;
 using System.Collections;
@@ -25,7 +25,7 @@ namespace LIFO_Excersise
     }
 }
 
-#Klasa Stos
+//Klasa Stos
 
 using System;
 using System.Collections.Generic;
